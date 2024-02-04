@@ -1,4 +1,5 @@
-# Hello there, I'm modern-tony!👋
+# Hello there, I'm modern-tony! ![Sprite-0001](https://github.com/modern-tony/modern-tony/assets/152200068/4d91ff57-0199-423d-a0a6-312c59507ae8)
+
 
 **`(Developer/Future Entrepreneur/Creator)`**
 
