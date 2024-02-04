@@ -1,6 +1,6 @@
 # Hello there, I'm modern-tony!👋
 
-**`Tech Lead (Developer/Future Entrepreneur/Creator)`**
+**`(Developer/Future Entrepreneur/Creator)`**
 
 I am a results-driven and experienced Product Development Tech Lead passionate about building innovative and user-centric software solutions. With a blend of technical expertise and leadership skills, I excel at driving product development initiatives from concept to successful launch.
 
