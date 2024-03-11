@@ -1,9 +1,9 @@
 # Hello there, I'm modern-tony! ![Sprite-0001](https://github.com/modern-tony/modern-tony/assets/152200068/4d91ff57-0199-423d-a0a6-312c59507ae8)
 
 
-**`(Developer/Future Entrepreneur/Creator)`**
+**`(Developer/Entrepreneur/Creator)`**
 
-I am a results-driven and experienced Product Development Tech Lead passionate about building innovative and user-centric software solutions. With a blend of technical expertise and leadership skills, I excel at driving product development initiatives from concept to successful launch.
+
 
 ---
 
